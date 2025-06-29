@@ -52,8 +52,8 @@ python app.py
 Visit in browser
 
 4.Visit in browser
-cpp
-http://127.0.0.1:5000
+🔗 **Live Demo**:(https://parkinsons-detector-qsr2.onrender.com)
+
 
 
 🧠 Model Info

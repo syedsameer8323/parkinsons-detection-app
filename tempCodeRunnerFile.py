@@ -1,1 +1,0 @@
-No Parkinson's Detected
