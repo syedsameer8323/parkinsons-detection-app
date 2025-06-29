@@ -37,9 +37,9 @@ NeuroScan is a machine learning-powered web application designed to predict the 
 ### 📦 Installation & Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/syedsameer8323/parkinsons-detection-app.git
-   cd parkinsons-detection-app
+bash
+git clone https://github.com/syedsameer8323/parkinsons-detection-app.git
+cd parkinsons-detection-app
 
 2.install dependencies
 bash
@@ -75,4 +75,4 @@ Start Command: python app.py
 🙏 Acknowledgements
 
 Dataset: UCI ML Parkinson’s Data Set
-Flask, scikit-learn, and the open-source community 💜
+Flask, scikit-learn, and the open-source community 
