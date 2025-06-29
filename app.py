@@ -3,8 +3,9 @@ import numpy as np
 import joblib
 
 app = Flask(__name__)
-model = joblib.load(r"model\model.pkl")
-scaler = joblib.load(r"model\scaler.pkl")
+model = joblib.load("model/model.pkl")
+scaler = joblib.load("model/scaler.pkl")
+
 
 # Landing Page
 @app.route("/")
